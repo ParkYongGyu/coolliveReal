@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="act_info">false</item>
+    <item type="id" name="Top_Margin">false</item>
+    <item type="id" name="Layout_Web">false</item>
+    <item type="id" name="livetab">false</item>
+    <item type="id" name="img">false</item>
+    <item type="id" name="buttonNamed">false</item>
+    <item type="id" name="button7M">false</item>
+    <item type="id" name="button5">false</item>
+    <item type="id" name="button6">false</item>
+    <item type="id" name="oddstab">false</item>
+    <item type="id" name="ball1">false</item>
+    <item type="id" name="ball2">false</item>
+    <item type="id" name="ball3">false</item>
+    <item type="id" name="ball4">false</item>
+    <item type="id" name="ball5">false</item>
+    <item type="id" name="web">false</item>
+    <item type="id" name="board">false</item>
+    <item type="id" name="info">false</item>
+    <item type="id" name="star">false</item>
+    <item type="id" name="Button">false</item>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="button2">false</item>
+    <item type="id" name="button3">false</item>
+    <item type="id" name="button4">false</item>
+    <item type="id" name="rl_noti">false</item>
+    <item type="id" name="tv_noti">false</item>
+    <item type="id" name="btn_close">false</item>
+</resources>

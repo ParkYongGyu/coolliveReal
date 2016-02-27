@@ -1,0 +1,231 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context="com.coollive.MainActivity" >
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical"
+		android:weightSum="2500"
+		android:id="@+id/layerMain">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="135"
+			android:orientation="horizontal"
+			android:weightSum="1600">
+			<ImageView
+				android:id="@+id/imgLogo"
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="780"
+				android:background="@drawable/logo"/>
+			<LinearLayout
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="696"
+				android:background="@color/white"/>
+			<LinearLayout
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="74"
+				android:orientation="vertical"
+				android:weightSum="135"
+				android:background="@color/white">
+				<Space
+					android:layout_width="match_parent"
+					android:layout_height="0dp"
+					android:layout_weight="33"
+					android:background="@color/white"/>
+
+				<ImageView
+					android:id="@+id/imgInfo"
+					android:src="@drawable/icon_info"
+					android:layout_width="match_parent"
+					android:layout_height="0dp"
+					android:layout_weight="69"
+					android:visibility="gone"/>
+				<Space
+					android:layout_width="match_parent"
+					android:layout_height="0dp"
+					android:layout_weight="33"
+					android:background="@color/white"/>
+			</LinearLayout>
+			<LinearLayout
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="50"
+				android:background="@color/white"/>
+		</LinearLayout>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="220"
+			android:orientation="horizontal"
+			android:weightSum="1600">
+
+			<com.coollive.ToggleImageButton
+				android:id="@+id/btnMenuLivescore"
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="499"/>
+
+			<com.coollive.ToggleImageButton
+				android:id="@+id/btnMenuForecast"
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="377"/>
+
+
+			<com.coollive.ToggleImageButton
+				android:id="@+id/btnMenuTrend"
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="367"/>
+
+
+			<com.coollive.ToggleImageButton
+				android:id="@+id/btnMenuAnalysisPic"
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="357"/>
+
+
+		</LinearLayout>
+
+		<LinearLayout
+			android:orientation="horizontal"
+			android:id="@id/livetab"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="153"
+			android:layout_alignBottom="@id/img">
+
+			<LinearLayout android:gravity="center"
+				android:orientation="horizontal"
+				android:id="@id/buttonNamed"
+				android:background="@drawable/tap_btn01_bg"
+				android:padding="8.0dip"
+				android:layout_width="0.0dip"
+				android:layout_height="34.0dip"
+				android:layout_weight="1.0">
+				<ImageView android:layout_gravity="center"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:src="@drawable/nl" />
+			</LinearLayout>
+			<LinearLayout
+				android:gravity="center"
+				android:orientation="horizontal"
+				android:id="@id/button7M"
+				android:background="@drawable/tap_btn02_bg"
+				android:padding="8.0dip"
+				android:layout_width="0.0dip"
+				android:layout_height="34.0dip"
+				android:layout_weight="1.0">
+				<ImageView
+					android:layout_gravity="center"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:src="@drawable/sl" />
+			</LinearLayout>
+		</LinearLayout>
+
+
+		<LinearLayout
+			android:id="@id/oddstab"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="153"
+			android:orientation="horizontal"
+			android:weightSum="1600"
+			android:visibility="gone">
+
+			<com.coollive.ToggleImageButton
+				android:id="@+id/btnSubSoccer"
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="300"/>
+
+			<com.coollive.ToggleImageButton
+				android:id="@+id/btnSubBasketball"
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="330"/>
+
+			<com.coollive.ToggleImageButton
+				android:id="@+id/btnSubVolleyball"
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="321"/>
+
+			<com.coollive.ToggleImageButton
+				android:id="@+id/btnSubBaseball"
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="361"/>
+
+			<com.coollive.ToggleImageButton
+				android:id="@+id/btnSubIcehockey"
+				android:layout_width="0dp"
+				android:layout_height="match_parent"
+				android:layout_weight="288"/>
+
+		</LinearLayout>
+
+		<WebView android:id="@id/web"
+			android:layout_width="fill_parent"
+			android:layout_height="0.0dip"
+			android:layout_weight="1892" />
+
+
+
+	</LinearLayout>
+
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:orientation="vertical"
+		android:weightSum="2500">
+
+
+		<Space
+			android:layout_width="fill_parent"
+			android:layout_height="0dp"
+			android:layout_weight="2220"/>
+
+
+		<ImageView
+			android:id="@+id/imageBanner"
+			android:layout_width="fill_parent"
+			android:layout_height="0.0dip"
+			android:layout_weight="200"
+			android:background="@drawable/banner"/>
+
+		<TextView android:text="COOLLIVE 에 오신것을 환영합니다.                                                    COOLLIVE 에 오신것을 환영합니다.                                           COOLLIVE 에 오신것을 환영합니다."
+			android:textColor="@android:color/white"
+			android:background="@android:color/darker_gray"
+			android:id="@+id/board"
+			android:layout_width="fill_parent"
+			android:layout_height="0.0dip"
+			android:layout_weight="80"
+			android:singleLine="true"
+			android:ellipsize="marquee"
+			android:textAppearance="?android:attr/textAppearanceLarge"
+			android:marqueeRepeatLimit="marquee_forever"
+			android:scrollHorizontally="true"
+			android:paddingLeft="15dip"
+			android:paddingRight="15dip"
+			android:focusable="true"
+			android:focusableInTouchMode="true"
+			android:freezesText="true"/>
+
+
+	</LinearLayout>
+</RelativeLayout>
+<!-- From: file:/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/src/main/res/layout/activity_main.xml -->

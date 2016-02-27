@@ -1,0 +1,10 @@
+/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/classes/debug
+/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-105aa28c0b60d5d6428715fa31704f4fe2691b04.jar
+/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.2-8b8edc128055c514a2bb9ba615d162066c0c2673.jar
+/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-627978ec59810e03e80e9d9ba48cdbae85e07234.jar
+/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.2-848d36e4301250362bd18ef3d7e80c6dfe37be42.jar
+/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/jericho-html-3.3-3eded298bf190d09ccc6a6b8f17a97e02b6a04e1.jar
+/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-4b99f62bcd7e627313014c64a517a1735e012c07.jar
+/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/classes-b3b79f04e9052e5529198c7461035f376ada772b.jar
+/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/Parse-1.9.2-00c941672476336994627db6fcef4c549bf3e579.jar
+/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/classes-4441f80cdcfac99b219af32e4b090776581f9086.jar

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/act_info" android:background="#ff153d62" android:padding="1.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:background="@drawable/pop_box" android:padding="10.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="9.0pt" android:textColor="#ff000022" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="앱 이름 : Cool live" />
+        <TextView android:textSize="8.0pt" android:textColor="#ff000022" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="현재버전 : 1.7.0" />
+        <TextView android:textSize="8.0pt" android:textColor="#ff040422" android:padding="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="전업배터,전문픽스터,어플개발진으로 이루어진 저희 쿨라이브팀은 유저분들과 함께 건전한 배팅문화 정착과 꾸준한 수익을 창출하실 수 있도록 항상 최선의 노력을 다 할것을 약속드립니다." />
+        <TextView android:textSize="8.0pt" android:textColor="#ff000022" android:paddingLeft="5.0dip" android:paddingTop="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="Coolive 관리자 대표카톡 " />
+        <TextView android:textSize="8.0pt" android:textColor="#ffed4802" android:paddingLeft="5.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="카카오톡 ID" />
+    </LinearLayout>
+</RelativeLayout><!-- From: file:/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/src/main/res/layout/info.xml -->

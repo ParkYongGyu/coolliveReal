@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/gikimiad/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-105aa28c0b60d5d6428715fa31704f4fe2691b04.jar" />
+    </item>
+    <item
+        jar="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/classes-b3b79f04e9052e5529198c7461035f376ada772b.jar" />
+    </item>
+    <item
+        jar="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/libs/ParseCrashReporting-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="83f3b1e397f1cc3f05cb9db078d9e364b5f5e218">
+        <dex dex="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/ParseCrashReporting-1.9.2-848d36e4301250362bd18ef3d7e80c6dfe37be42.jar" />
+    </item>
+    <item
+        jar="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/libs/Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/Parse-1.9.2-00c941672476336994627db6fcef4c549bf3e579.jar" />
+    </item>
+    <item
+        jar="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/libs/ParseFacebookUtilsV4-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bab281cc21f6a68152e11ab53b053790ccfd6764">
+        <dex dex="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.2-8b8edc128055c514a2bb9ba615d162066c0c2673.jar" />
+    </item>
+    <item
+        jar="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/libs/jericho-html-3.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7c1fe7aa0f8d073b47a1f9162df0ed3beee4029">
+        <dex dex="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/jericho-html-3.3-3eded298bf190d09ccc6a6b8f17a97e02b6a04e1.jar" />
+    </item>
+    <item
+        jar="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/classes-4441f80cdcfac99b219af32e4b090776581f9086.jar" />
+    </item>
+    <item
+        jar="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/libs/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-627978ec59810e03e80e9d9ba48cdbae85e07234.jar" />
+    </item>
+    <item
+        jar="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/gikimiad/Documents/Projects/coolproject/cool2/coolliveReal/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-4b99f62bcd7e627313014c64a517a1735e012c07.jar" />
+    </item>
+
+</items>
